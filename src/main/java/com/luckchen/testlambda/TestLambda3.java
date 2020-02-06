@@ -13,4 +13,12 @@ public class TestLambda3 {
     public void test1(){
 
     }
+
+
+
+    @Test
+    public void test2(){
+
+    }
+    
 }
